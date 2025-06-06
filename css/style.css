@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.puro{
+    margin: 0 0 0 auto;
+     position: relative;
+    right: -100px;
+    bottom: 240px;
+}
+.puro,p{
+     bottom: 240px;
+}

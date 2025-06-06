@@ -1,0 +1,23 @@
+@charset "utf-8";
+*{
+    box-sizing: border-box;
+}
+    #section1{
+  padding: 0 29%;
+}
+body{
+    background-color: rgb(187, 224, 150);
+}
+.example {width:80px;height:100px;}
+.sennsyumei{
+    position: relative;
+    right: -120px;
+    bottom: 120px;
+    
+}
+h5{
+    position: relative;
+    bottom: 25px;
+}
+
+
